@@ -1,5 +1,5 @@
 
-#Rock-Paper-Scissors-Game
+#Simple Calculator
 
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
